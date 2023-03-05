@@ -1,0 +1,21 @@
+{
+  "name": "gzip.js",
+  "version": "1.0.0",
+  "description": "Small function to enable gzip on a request.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MushAsterion/gzip.js.git"
+  },
+  "author": "Lucas Petitjean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MushAsterion/gzip.js/issues"
+  },
+  "homepage": "https://github.com/MushAsterion/gzip.js#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "zlib": "1.0.5"
+  }
+}
